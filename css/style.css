@@ -7511,7 +7511,7 @@ h1, h2, h3, h4, h5,
       font-size: 38px; }
   .slider-text h1 {
     font-size: 60px;
-    color: #fff;
+    color: #fa5bdd;
     line-height: 1.2;
     font-weight: 400;
     text-transform: uppercase; }
@@ -7522,7 +7522,7 @@ h1, h2, h3, h4, h5,
     font-size: 20px;
     line-height: 1.5;
     font-weight: 300;
-    color: rgba(255, 255, 255, 0.8); }
+    color: #fa5bdd; }
     .slider-text p a {
       color: #fff;
       border-bottom: 2px solid rgba(255, 255, 255, 0.3); }
@@ -7671,7 +7671,7 @@ h1, h2, h3, h4, h5,
       border-color: rgba(255, 255, 255, 0.8);
       background: none;
       border-width: 1px;
-      color: #fff; }
+      color: #fa5bdd; }
       .btn.btn-white.btn-outline-white:hover, .btn.btn-white.btn-outline-white:focus, .btn.btn-white.btn-outline-white:active {
         background: #fff;
         border-color: #fff;
