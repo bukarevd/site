@@ -7519,7 +7519,7 @@ h1, h2, h3, h4, h5,
       .slider-text h1 {
         font-size: 40px; } }
   .slider-text p {
-    font-size: 20px;
+    font-size: 30px;
     line-height: 1.5;
     font-weight: 300;
     color: rgba(208,27,80,.9); }
@@ -7542,7 +7542,7 @@ h1, h2, h3, h4, h5,
   .slider-text .bread {
     font-weight: 400 !important; }
   .slider-text .btn-outline-white {
-    border: 1px solid rgba(255, 255, 255, 0.4) !important; }
+    border: 4px solid rgba(208, 27, 80, .9) !important; }
     .slider-text .btn-outline-white span {
       color: #fff; }
     .slider-text .btn-outline-white:hover span {
@@ -7669,7 +7669,7 @@ h1, h2, h3, h4, h5,
       color: #fff; }
     .btn.btn-white.btn-outline-white {
       border-color: rgba(255, 255, 255, 0.8);
-      background: none;
+      background: white;
       border-width: 3px;
       color: rgba(208,27,80,.9); }
       .btn.btn-white.btn-outline-white:hover, .btn.btn-white.btn-outline-white:focus, .btn.btn-white.btn-outline-white:active {
