@@ -7728,10 +7728,10 @@ h1, h2, h3, h4, h5,
       width: 100%;
       text-align: center; }
     .work-entry .info h3 {
-      color: #e83e8c;
+      color: rgba(208,27,80,.9);
       margin-bottom: 0;
       font-weight: 300;
-      font-size: 20px; }
+      font-size: 30px; }
     .work-entry .info .icon {
       width: 50px;
       height: 50px;
