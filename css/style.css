@@ -7281,7 +7281,7 @@ body {
     width: 100%; }
 
 span {
-  color: #bfbfbf; }
+  color: black; }
 
 a {
   -webkit-transition: .3s all ease;
@@ -7760,7 +7760,7 @@ h1, h2, h3, h4, h5,
     opacity: 1; }
 
 .pricing-entry {
-  border: 1px solid #f0f0f0;
+  border: 1px solid black;
   position: relative;
   -moz-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
@@ -7804,8 +7804,8 @@ h1, h2, h3, h4, h5,
       border-radius: 30px; }
       .pricing-entry .button .btn.btn-outline-primary {
         background: #fff;
-        border: 1px solid #f0f0f0;
-        color: #cccccc; }
+        border: 1px solid black;
+        color: black; }
         .pricing-entry .button .btn.btn-outline-primary:hover, .pricing-entry .button .btn.btn-outline-primary:focus {
           background: #fff !important; }
   .pricing-entry:hover, .pricing-entry:focus {
